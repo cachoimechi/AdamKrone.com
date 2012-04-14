@@ -1,0 +1,42 @@
+h1 {
+	color: black;
+	font-size: 2em;
+}
+
+h2 {
+	color: #C00;
+	font-size: 1.3em;
+	margin: 0;
+}
+
+h3 {
+	color: black;
+	font-family: serif;
+	font-size: 1.1em;
+	margin: 0;
+}
+
+p {
+	line-height: 20px;
+}
+
+ul {
+	margin-left: 30px;
+}
+
+li {
+	line-height: 20px;
+}
+
+#download_resume {
+	color: #C00;
+	font-size: 20px;
+	text-decoration: none;
+	margin-top: 20px;
+	padding-left: 30px;
+	background: url('img/download_arrow_small.jpg') no-repeat left;
+}
+
+#download_resume:hover {
+	text-decoration: underline;
+}

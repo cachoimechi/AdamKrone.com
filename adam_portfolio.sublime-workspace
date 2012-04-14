@@ -1,0 +1,291 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"Chunk",
+				"ChunkFiveRegular"
+			],
+			[
+				"Ch",
+				"ChunkFiveRegular"
+			],
+			[
+				"trans",
+				"transition"
+			],
+			[
+				"mouse_",
+				"mouse_is_inside_login"
+			],
+			[
+				"mouse",
+				"mouse_is_inside"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "resume.html",
+			"settings":
+			{
+				"buffer_size": 5912,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				":w",
+				":w - Save"
+			],
+			[
+				"instl",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"to",
+				"Toggle Comment"
+			],
+			[
+				"disab",
+				"Package Control: Disable Package"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Remove Package"
+			],
+			[
+				"toggle",
+				"Toggle Block Comment"
+			],
+			[
+				"comm",
+				"Toggle Block Comment"
+			],
+			[
+				"fetch",
+				"Fetch: Manage remote files"
+			],
+			[
+				"fet",
+				"Fetch"
+			],
+			[
+				"case",
+				"Convert Case: Title Case"
+			],
+			[
+				"",
+				"About"
+			]
+		],
+		"width": 593.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/cachoimechi/Dropbox/Public/Sites/adamkrone.com/portfolio.html",
+		"/Users/cachoimechi/Dropbox/Public/Sites/adamkrone.com/index.html",
+		"/Users/cachoimechi/Dropbox/Public/Sites/adamkrone.com/sftp-config.json",
+		"/Users/cachoimechi/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/Users/cachoimechi/Library/Application Support/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"/Users/cachoimechi/Dropbox/Public/Sites/sketchingpractice.com/style/less/elements.less",
+		"/Users/cachoimechi/Dropbox/Public/Sites/sketchingpractice.com/style/css/style.css",
+		"/Users/cachoimechi/Dropbox/Public/Sites/sketchingpractice.com/js/tourScript.js",
+		"/Users/cachoimechi/Dropbox/Public/Sites/sketchingpractice.com/style/less/mix-ins.less",
+		"/Users/cachoimechi/Downloads/dmitryf-elements-ebdcd8c/elements.less",
+		"/Users/cachoimechi/Dropbox/Public/Sites/sketchingpractice.com/style/stylus/background-linear-gradient.styl",
+		"/Users/cachoimechi/Dropbox/Public/Sites/sketchingpractice.com/style/stylus/border-radius.styl",
+		"/Users/cachoimechi/Dropbox/Public/Sites/sketchingpractice.com/style/stylus/transform.styl",
+		"/Users/cachoimechi/Dropbox/Public/Sites/sketchingpractice.com/style/stylus/transition.styl",
+		"/Users/cachoimechi/Dropbox/Public/Sites/sketchingpractice.com/style/stylus/box-shadow.styl",
+		"/Users/cachoimechi/Dropbox/Public/Sites/sketchingpractice.com/style/stylus/style.styl",
+		"/Users/cachoimechi/Dropbox/Public/Sites/sketchingpractice.com/style/stylus/rest.styl",
+		"/Users/cachoimechi/Dropbox/Public/Sites/sketchingpractice.com/style/less/reset.less",
+		"/Users/cachoimechi/Dropbox/Public/Sites/sketchingpractice.com/style/less/mixins.less",
+		"/Users/cachoimechi/Dropbox/Public/Sites/sketchingpractice.com/style.css",
+		"/Users/cachoimechi/Dropbox/Public/Sites/sketchingpractice.com/style.css.bak",
+		"/Users/cachoimechi/Dropbox/Public/Sites/sketchingpractice.com/style/dev/style.styl",
+		"/Users/cachoimechi/Library/Application Support/Sublime Text 2/Packages/Prefixr/Default (OSX).sublime-keymap",
+		"/Users/cachoimechi/Library/Application Support/Sublime Text 2/Packages/User/Fetch.sublime-settings",
+		"/Users/cachoimechi/Dropbox/Public/Sites/sketchingpractice.com/js/jquery-min.js",
+		"/Users/cachoimechi/Documents/test.js",
+		"/Users/cachoimechi/Library/Application Support/Sublime Text 2/Packages/Alignment/Base File.sublime-settings",
+		"/Volumes/ANKRONE 16G/[spring 12] web I/Personal Portfolio/AdamKrone.com/js/slide.js",
+		"/Volumes/ANKRONE 16G/[spring 12] web I/Personal Portfolio/AdamKrone.com/js/jquery-cycle-lite.js",
+		"/Volumes/ANKRONE 16G/[spring 12] web I/Personal Portfolio/AdamKrone.com/portfolio.html",
+		"/Volumes/ANKRONE 16G/[spring 12] web I/Personal Portfolio/AdamKrone.com/resume.html",
+		"/Volumes/ANKRONE 16G/[spring 12] web I/Personal Portfolio/AdamKrone.com/resume.css",
+		"/Volumes/ANKRONE 16G/[spring 12] web I/Personal Portfolio/AdamKrone.com/reset.css",
+		"/Volumes/ANKRONE 16G/[spring 12] web I/Personal Portfolio/AdamKrone.com/normalize.css",
+		"/Volumes/ANKRONE 16G/[spring 12] web I/Business Site/SketchingPractice.com/style.css",
+		"/Volumes/ANKRONE 16G/[spring 12] web I/Business Site/SketchingPractice.com/index.html"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"border",
+			"$",
+			"box",
+			"\">",
+			"highligh",
+			"00"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "resume.html",
+					"settings":
+					{
+						"buffer_size": 5912,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								4873,
+								4873
+							]
+						],
+						"settings":
+						{
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 1382.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.sftp":
+	{
+		"height": 118.0
+	},
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 154.0,
+	"status_bar_visible": true
+}
